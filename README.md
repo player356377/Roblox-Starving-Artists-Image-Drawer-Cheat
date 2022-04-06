@@ -4,7 +4,6 @@ Draws 32x32 pixel images from a reference one
 ## Your resolution needs to be set to 1080p for this script to work!
 1: Add your image to the NFTS folder
 2: Run the NFTMakerMain.exe file and select the desired image and settings
-3: Once the preview appears close it and press alt when you are sitting in the drawing seat
+3: Once the preview appears close it and press alt when you are ready to draw
 
-##This script emulates mouse presses which not only roblox can recieve
-##It is important to make sure that you have the roblox window in fullscreen mode
+## This script emulates mouse presses which not only roblox can recieve
