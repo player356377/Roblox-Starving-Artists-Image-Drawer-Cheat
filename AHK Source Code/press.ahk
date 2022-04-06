@@ -1,0 +1,1 @@
+﻿MouseClick, left, %1%, %2%
