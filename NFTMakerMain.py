@@ -1,6 +1,4 @@
-from asyncore import loop
 import cv2, os, subprocess, tqdm, keyboard, time, sys
-from tkinter import *
 
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
