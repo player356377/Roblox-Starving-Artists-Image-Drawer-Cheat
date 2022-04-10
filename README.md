@@ -8,4 +8,4 @@ Draws 32x32 pixel images from a reference one
 4: To stop the script mid drawing press the 'end' key on your keyboard
 
 ## This script emulates mouse presses which not only roblox can recieve
-It is important you have the roblox player in fullscreen mode and that you dont open another window unless you halt the script
+It is important that you have the roblox player in fullscreen mode and that you dont open another window before you halt the script
